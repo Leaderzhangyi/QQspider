@@ -1,3 +1,6 @@
+![GitHub stars](https://img.shields.io/github/stars/Leaderzhangyi/QQspider.svg?style=social) 
+![](https://img.shields.io/badge/python-3.6-brightgreen.svg)
+![](https://img.shields.io/badge/platform-Windows%7CLinux%7CmacOS-660066.svg)
 # QQspider
 利用python爬取好友说说并分析
 
